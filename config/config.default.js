@@ -51,6 +51,10 @@ module.exports = appInfo => {
         prefix:'/public/',
         dir: path.join(appInfo.baseDir, 'app/reactWeb/build')
     };
+    // config.static = {
+    //     prefix:'/img/',
+    //     dir: path.join(appInfo.baseDir, 'app/reactWeb/build/img')
+    // };
     config.httpclient = requestConfig;
     return config;
 };
