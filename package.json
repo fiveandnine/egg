@@ -5,7 +5,6 @@
   "private": true,
   "dependencies": {
     "egg": "^2.2.1",
-    "egg-api-proxy": "^2.2.7-0",
     "egg-development-proxyagent": "^1.0.0",
     "egg-graphql": "^2.1.0",
     "egg-scripts": "^2.5.0",
