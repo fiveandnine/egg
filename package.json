@@ -1,5 +1,5 @@
 {
-  "name": "simple",
+  "name": "fabulous-egg",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -37,7 +37,7 @@
     "node": ">=8.9.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-simple",
+    "start": "egg-scripts start --title=egg-server-simple",
     "stop": "egg-scripts stop --title=egg-server-simple",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
